@@ -23,3 +23,9 @@ A smart and user-friendly calculator built in Python that not only performs basi
 1. Export history to file (txt/csv)
 2. Load previous session history on startup
 3. Build as a desktop or web app using frameworks like PyQt, Flask, or Kivy
+
+## 👤 Author
+
+**Soumya Bhatnagar**  
+[GitHub Profile](https://github.com/Soumyabhatnagar1)  
+Email: soumyabhatnagar07@gmail.com  
